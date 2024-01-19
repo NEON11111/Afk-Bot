@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "NeOnYT123",
+    "password": "oooppp0099",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "uk-01.slicehosting.tech",
+    "port": 25236,
     "version": "1.19.3"
   },
 
